@@ -58,4 +58,4 @@ English (Fluent), French (Elementary)
 
 ### Contribution Streak
 
-![streaks graph](https://streak-stats.demolab.com?user=braswelljr&theme=radical)
+![streaks graph](https://streak-stats.demolab.com?user=braswell-jr&theme=radical)
